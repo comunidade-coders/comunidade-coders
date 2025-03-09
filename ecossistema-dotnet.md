@@ -60,5 +60,6 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 | Sergey Tihon | https://sergeytihon.com/ | `F#` `.NET` |
 | Swimburger .NET Blog | https://swimburger.net/blog | `.NET` `C#` `Arquitetura de Software` |
 | Steven Giesel | https://steven-giesel.com/ | `.NET` `C#` `Blazor` `Arquitetura de Software` `Novidades Microsoft` |
-| Steve Gordon | https://www.stevejgordon.co.uk/ | `.NET` `C#` `Azure` `Arquitetura de Software` `Novidades Microsoft` |
+| Programming With Wolfgang | https://www.programmingwithwolfgang.com | `.NET` `C#` `Azure` `Arquitetura de Software` `Novidades Microsoft` |
+| The Cloud Blog | https://thecloudblog.net/ | `.NET` `Azure` |
 
