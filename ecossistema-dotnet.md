@@ -94,3 +94,42 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 | Thomas Levesque's .NET Blog | https://thomaslevesque.com/ | `.NET` `C#` |
 | We are .Net | https://www.wearedotnet.io/ | `.NET` `C#` `Azure` `Arquitetura de Software``Novidades Microsoft` |
 
+### Canais do youtube
+| Nome   |      Link      |  
+|----------|:-------------:|
+| .NET Foundation |  https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A |
+| Alexandre Brandão |  https://www.youtube.com/c/abrandaol |
+| Andre Okazaki |  https://www.youtube.com/c/OkazakiAndre |
+| André Secco |  https://www.youtube.com/c/AndreSecco |
+| Angelo Belchior |  https://www.youtube.com/user/angelobelchior |
+| Balta.io |  https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg |
+| Ben Gobeil |  https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A |
+| Comunidade Coders |  https://www.youtube.com/@ComunidadeCoders|
+| Code FC |  https://www.youtube.com/c/CodeFC |
+| Canal da Cloud |  https://www.youtube.com/c/CanaldaCloud |
+| Canal dotNet |  https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg |
+| CodAffection |  https://www.youtube.com/c/CodAffection |
+| Coders In Rio |  https://www.youtube.com/channel/UC65S8lTO_ajBIAwK7ZEraAw |
+| Codewrinkles |  https://www.youtube.com/@Codewrinkles |
+| Coding Night |  https://www.youtube.com/c/CodingNight |
+| Cristian William Dev |  https://www.youtube.com/@cristianwilliamdev |
+| Cristiano Cunha |  https://www.youtube.com/c/CristianoRaffiCunha |
+| Daniel Jesus |  https://www.youtube.com/@DjesusNet |
+| Desenvolvedor.io |  https://www.youtube.com/channel/UCC-i2bS_oH2os9niHX2ApOA |
+| DevelopersBr |  https://www.youtube.com/channel/UCGhSrtP0-1qq0XPbnMpi2kQ |
+| Dirceu Resende |  https://www.youtube.com/channel/UCCVLb9jTx8MlFOUoNrJwHcw |
+| dotNet |  https://www.youtube.com/c/dotNET |
+| EximiaCo - Excelência Tecnológica |  https://www.youtube.com/channel/UCwX5b4ru7-vkcxrg-3ehbPA |
+| Fabrício Veronez |  https://www.youtube.com/c/fabricioveronez |
+| Full Cycle |  https://www.youtube.com/c/FullCycle |
+| Henrique Mauri |  https://www.youtube.com/c/HenriqueMauri |
+| Jorge Maia |  https://www.youtube.com/c/CanaldoJorgeMaia |
+| JunDevelopers |  https://www.youtube.com/channel/UCs4Ptuva_4ihqbqJEXIAw7w |
+| Lambda3 |  https://www.youtube.com/user/Lambda3TV |
+| Luis Dev |  https://www.youtube.com/c/luisdev |
+| Luiz Carlos Faria |  https://www.youtube.com/user/luizcarlosfaria |
+| Nick Chapsas |  https://www.youtube.com/user/ElfocrashDev |
+| Raw Coding |  https://www.youtube.com/@RawCoding |
+| Ramon Durães |  https://www.youtube.com/user/ramonduraes |
+| Tim Corey |  https://www.youtube.com/user/IAmTimCorey |
+| Thiago Corrêa | https://www.youtube.com/@thiagocorreanet
