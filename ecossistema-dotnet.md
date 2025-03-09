@@ -7,7 +7,6 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 ### Blogs em Protuguês
 | Nome   |      Link      |  Tags |
 |----------|:-------------:|------:|
-| Macoratti |  http://macoratti.net/ | `.NET` `C#` `Azure` `Novidades Microsoft` `asp` `asp.net mvc` `arquitetura` |
 | André Secco |  https://andresecco.com.br | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` |
 | Balta | https://balta.io/blog | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `testes unitários` `blazor` |
 | Bruno Brito | https://brunobrito.net.br/ | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `segurança` `cloud` |
@@ -22,6 +21,7 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 | Gustavo Bellini | https://gbbigardi.medium.com | `.NET` `C#` |
 | Henrique Mauri | https://henriquemauri.net | `Elastic` `C#` `.NET` `C#` `Azure` `Cloud` `Mensageria`|
 | iMasters | https://imasters.com.br/dotnet | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `DDD` |
+| Macoratti |  http://macoratti.net/ | `.NET` `C#` `Azure` `Novidades Microsoft` `asp` `asp.net mvc` `arquitetura` |
 | Luiz Dev | https://luisdev.com.br | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `DDD` |
 | Alexandre Malavasi | https://medium.com/@alexandre.malavasi | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `DDD` |
 | Fernando Mendes | https://medium.com/@marraia | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `DDD` |
