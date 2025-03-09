@@ -133,3 +133,10 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 | Ramon Durães |  https://www.youtube.com/user/ramonduraes |
 | Tim Corey |  https://www.youtube.com/user/IAmTimCorey |
 | Thiago Corrêa | https://www.youtube.com/@thiagocorreanet
+
+### Grupos no whatsapp
+| Nome   |      Link      |  
+|----------|:-------------:|
+| .NET |  https://chat.whatsapp.com/KoHhwhhaSHEKKVy9w1cmMF |
+| Dot.Net Brasil |  https://chat.whatsapp.com/CusYUzlD6pKG2jfrk0u3DM |
+
