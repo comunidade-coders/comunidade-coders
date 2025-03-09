@@ -139,4 +139,10 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 |----------|:-------------:|
 | .NET |  https://chat.whatsapp.com/KoHhwhhaSHEKKVy9w1cmMF |
 | Dot.Net Brasil |  https://chat.whatsapp.com/CusYUzlD6pKG2jfrk0u3DM |
-
+| SQL Server |  https://chat.whatsapp.com/FgTomLcNK3bIWePY9vLSJw |
+| Cyber Segurança |  https://chat.whatsapp.com/JiyzWvOilKIAvslQpH46bF |
+| Networking |  https://chat.whatsapp.com/J7dCJ3qoRUM9DiLKgXph5t |
+| Eventos de tecnologia |  https://chat.whatsapp.com/I6YzQdygS9R8C3YTEAKBOP |
+| Github |  https://chat.whatsapp.com/IPpQ6FtCx8R1gqarjmnbVL |
+| Vagas de tech |  https://chat.whatsapp.com/D5wzDYrWPshDpsRswDM26n |
+| C# .NET CORE |  https://chat.whatsapp.com/I8E0HFYhpEW8BhMY3Cb4tl |
