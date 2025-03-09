@@ -47,6 +47,10 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 | Gary Woodfine | https://garywoodfine.com/category/software-development/programming/c | `.NET` `C#` |
 | Infoq | https://www.infoq.com/net-core/articles/ | `.NET` `C#` `Azure` `Arquitetura de Software` |
 | Jimmy Bogard | https://www.jimmybogard.com/ | `.NET` `C#` |
+| Khalid Abuhakmeh | https://khalidabuhakmeh.com/ | `.NET` `C#` |
+| Mark Seemann | https://blog.ploeh.dk/| `.NET` `F#` `TDD` |
+| Meziantou's Blog | https://www.meziantou.net/ | `.NET` `C#` `Azure` `Arquitetura de Software` |
+| Michael's Coding | https://michaelscodingspot.com/ | `.NET` `C#` `Azure` `Arquitetura de Software` |
 
 
 
