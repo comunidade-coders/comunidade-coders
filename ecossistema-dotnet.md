@@ -27,6 +27,12 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 | Code Project | https://www.codeproject.com/ | `.NET` `C#` `Exemplos de códigos` |
 | Code With Mukesh | https://codewithmukesh.com/blog/ | `.NET` `C#` `Azure` `Arquitetura de Software` |
 | Code Opinion | https://codeopinion.com/ | `.NET` `C#` `Azure` `Arquitetura de Software` |
+| Conrad Akunga  | https://www.conradakunga.com/blog/ | `.NET` `C#` `Azure` `Arquitetura de Software` |
+| Daily .NET Tips | https://dailydotnettips.com/ | `.NET` `C#` `Azure` `Arquitetura de Software` `Novidades Microsoft` |
+| Damien | https://damienbod.com/ | `.NET` `C#` `Azure` `Arquitetura de Software` `Novidades Microsoft` |
+| Daniel Krzyczkowski | https://daniel-krzyczkowski.github.io/ | `.NET` `C#` `Azure` `Arquitetura de Software` `Novidades Microsoft` |
+| Dave Callan | https://davecallan.com/ | `.NET` `C#` `Azure` `Arquitetura de Software` |
+
 
 
 
