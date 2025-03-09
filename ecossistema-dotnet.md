@@ -62,4 +62,8 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 | Steven Giesel | https://steven-giesel.com/ | `.NET` `C#` `Blazor` `Arquitetura de Software` `Novidades Microsoft` |
 | Programming With Wolfgang | https://www.programmingwithwolfgang.com | `.NET` `C#` `Azure` `Arquitetura de Software` `Novidades Microsoft` |
 | The Cloud Blog | https://thecloudblog.net/ | `.NET` `Azure` |
+| The Code Blogger | https://thecodeblogger.com/ | `.NET` `Azure` |
+| The Morning Brew | https://blog.cwa.me.uk/ | `.NET` `C#` `Azure` `Arquitetura de Software` `Novidades Microsoft` |
+| Thomas Levesque's .NET Blog | https://thomaslevesque.com/ | `.NET` `C#` |
+| We are .Net | https://www.wearedotnet.io/ | `.NET` `C#` `Azure` `Arquitetura de Software``Novidades Microsoft` |
 
