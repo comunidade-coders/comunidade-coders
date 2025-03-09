@@ -50,5 +50,10 @@ Os administradores têm a responsabilidade de manter a ordem. Obedeça os alerta
 
 ✔️ Em negociações (compra, contratação ou prestação de serviços), tome cuidado e peça referências antes de fechar qualquer acordo.
 
+## Agradecemos sua colaboração! 🤝
+Vamos construir juntos uma comunidade profissional, ética e eficiente! 🚀💼
+
+❓ Dúvidas? Fale com os administradores.
+
 ✔️ Não peça para perguntar. Simplesmente faça a pergunta!
 
