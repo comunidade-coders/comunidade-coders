@@ -32,6 +32,11 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 | Damien | https://damienbod.com/ | `.NET` `C#` `Azure` `Arquitetura de Software` `Novidades Microsoft` |
 | Daniel Krzyczkowski | https://daniel-krzyczkowski.github.io/ | `.NET` `C#` `Azure` `Arquitetura de Software` `Novidades Microsoft` |
 | Dave Callan | https://davecallan.com/ | `.NET` `C#` `Azure` `Arquitetura de Software` |
+| Dave Murray | https://blog.taranissoftware.com/ | `.NET` `C#` `Azure` `Arquitetura de Software` |
+| David Guida | https://www.davidguida.net/ | `.NET` `C#` `Azure` `Arquitetura de Software` `Novidades Microsoft` |
+| David McCarter | https://dotnettips.wordpress.com/code-performance/ | `Arquitetura de Software` `performace de código` `.NET` `C#` |
+| Dotnet Curry | https://dotnetgik.wordpress.com/ | `.NET` `C#` `Visual Studio` `Arquitetura de Software` |
+| Dotnetgik | https://dotnetcurry.com/ | `.NET` `C#` `Visual Studio` `Arquitetura de Software` |
 
 
 
