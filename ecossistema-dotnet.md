@@ -37,6 +37,16 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 | David McCarter | https://dotnettips.wordpress.com/code-performance/ | `Arquitetura de Software` `performace de código` `.NET` `C#` |
 | Dotnet Curry | https://dotnetgik.wordpress.com/ | `.NET` `C#` `Visual Studio` `Arquitetura de Software` |
 | Dotnetgik | https://dotnetcurry.com/ | `.NET` `C#` `Visual Studio` `Arquitetura de Software` |
+| DotNet Kicks | https://dotnetkicks.com/ | `.NET` `C#` `Visual Studio` |
+| Dotnet Thoughts | https://dotnetthoughts.net/ | `.NET` `C#` `Visual Studio` `Arquitetura de Software` |
+| Dotnet Tutorials | https://dotnetcoretutorials.com/ | `NET` `C#` |
+| Dusted Codes | https://dusted.codes/ | `.NET` `C#` `F#` |
+| Enterprise Craftsmanship | https://enterprisecraftsmanship.com/ | `.NET` `C#` `DDD` `Testes` `boas práticas` |
+| Exception Not Found | https://www.exceptionnotfound.net/ | `.NET` `C#` |
+| F# for Fun and Profit | https://fsharpforfunandprofit.com/ | `F#` |
+| Gary Woodfine | https://garywoodfine.com/category/software-development/programming/c | `.NET` `C#` |
+| Infoq | https://www.infoq.com/net-core/articles/ | `.NET` `C#` `Azure` `Arquitetura de Software` |
+| Jimmy Bogard | https://www.jimmybogard.com/ | `.NET` `C#` |
 
 
 
