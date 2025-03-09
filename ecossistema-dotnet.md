@@ -146,3 +146,4 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 | Github |  https://chat.whatsapp.com/IPpQ6FtCx8R1gqarjmnbVL |
 | Vagas de tech |  https://chat.whatsapp.com/D5wzDYrWPshDpsRswDM26n |
 | C# .NET CORE |  https://chat.whatsapp.com/I8E0HFYhpEW8BhMY3Cb4tl |
+| Brazil RavenDB Community | https://chat.whatsapp.com/HR8GZkMd2WX4ZCyoQIA7Oz |
