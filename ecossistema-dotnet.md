@@ -51,9 +51,14 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 | Mark Seemann | https://blog.ploeh.dk/| `.NET` `F#` `TDD` |
 | Meziantou's Blog | https://www.meziantou.net/ | `.NET` `C#` `Azure` `Arquitetura de Software` |
 | Michael's Coding | https://michaelscodingspot.com/ | `.NET` `C#` `Azure` `Arquitetura de Software` |
-
-
-
-
-
+| Milan Jovanovic | https://www.milanjovanovic.tech/blog | `.NET` `C#` `Azure` `Arquitetura de Software` |
+| Muhammad Rehan Saeed | https://rehansaeed.com/ | `.NET` `C#` `Azure` `Arquitetura de Software` `Novidades Microsoft` |
+| Nikiforovall Blog | https://nikiforovall.github.io/ | `.NET` `C#` `Azure` `Arquitetura de Software` |
+| No Dogma Blog | https://nodogmablog.bryanhogan.net/ | `.NET` `C#` `Azure` `Arquitetura de Software` |
+| RoundTheCode | https://www.roundthecode.com/ | `.NET` `C#` `Visual Studio` |
+| Scott Hanselman | https://www.hanselman.com/blog | `.NET` `C#` `Azure` `Arquitetura de Software` `Novidades Microsoft` |
+| Sergey Tihon | https://sergeytihon.com/ | `F#` `.NET` |
+| Swimburger .NET Blog | https://swimburger.net/blog | `.NET` `C#` `Arquitetura de Software` |
+| Steven Giesel | https://steven-giesel.com/ | `.NET` `C#` `Blazor` `Arquitetura de Software` `Novidades Microsoft` |
+| Steve Gordon | https://www.stevejgordon.co.uk/ | `.NET` `C#` `Azure` `Arquitetura de Software` `Novidades Microsoft` |
 
