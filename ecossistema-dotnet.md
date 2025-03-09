@@ -4,6 +4,33 @@ Se você é um desenvolvedor .NET em busca de conhecimento, inspiração e recur
 
 Aqui você encontrará uma seleção curada e constantemente atualizada de blogs, projetos open source, ferramentas, cursos, comunidades e muito mais. Se quiser contribuir, fique à vontade! 💡
 
+### Blogs em Protuguês
+| Nome   |      Link      |  Tags |
+|----------|:-------------:|------:|
+| Macoratti |  http://macoratti.net/ | `.NET` `C#` `Azure` `Novidades Microsoft` `asp` `asp.net mvc` `arquitetura` |
+| André Secco |  https://andresecco.com.br | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` |
+| Balta | https://balta.io/blog | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `testes unitários` `blazor` |
+| Bruno Brito | https://brunobrito.net.br/ | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `segurança` `cloud` |
+| Daniel Jesus | https://medium.com/@djesusnet | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` |
+| Devmidia | https://devmedia.com.br/artigos/dotnet | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `EF Core` |
+| Microsoft | https://docs.microsoft.com/pt-br/dotnet/core | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `EF Core` |
+| Microsoft Learning | https://docs.microsoft.com/pt-br/learn | `Tecnologia em geral` |
+| EximiaCo | https://arquiteturadesoftware.online/ | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `DDD` |
+| EximiaCo Podcast | https://arquiteturadesoftware.online/podcast/ | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `DDD` |
+| FullCycle | https://fullcycle.com.br | `.NET` `C#` `Azure` `DevOps` `Full Cycle` `DDD` `Arquitetura Limpa`  |
+| Gago | https://gago.io/dotnet/ | `.NET` `C#` `Azure` `Cloud` `Mensageria` `Microservice` `Arquitetura`  |
+| Gustavo Bellini | https://gbbigardi.medium.com | `.NET` `C#` |
+| Henrique Mauri | https://henriquemauri.net | `Elastic` `C#` `.NET` `C#` `Azure` `Cloud` `Mensageria`|
+| iMasters | https://imasters.com.br/dotnet | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `DDD` |
+| Luiz Dev | https://luisdev.com.br | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `DDD` |
+| Alexandre Malavasi | https://medium.com/@alexandre.malavasi | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `DDD` |
+| Fernando Mendes | https://medium.com/@marraia | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `DDD` |
+| Marcio Nizzola | https://marcionizzola.medium.com | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `DDD` `Angular` `ionic` |
+| Rafael Almeida | https://ralms.net | `.NET` `C#` `EF` `Novidades Microsoft` `gRPC` `Apache Kafka` `ScyllDB` |
+| Renato Groff | https://renatogroffe.medium.com | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `DDD`  `Mensageria` |
+| Talles Destefani | https://tallesvaliatti.com/ | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `DDD`  `Mensageria` |
+| Tiago Tartari | https://tiagotartari.net/ | `.NET` `C#` `Azure` `Novidades Microsoft` `arquiteitura de sistemas` `DDD`  `Mensageria` |
+
 ### Blogs Inglês
 
 | Nome   |      Link      |  Tags |
