@@ -147,6 +147,7 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 | Vagas de tech |  https://chat.whatsapp.com/D5wzDYrWPshDpsRswDM26n |
 | C# .NET CORE |  https://chat.whatsapp.com/I8E0HFYhpEW8BhMY3Cb4tl |
 | Brazil RavenDB Community | https://chat.whatsapp.com/HR8GZkMd2WX4ZCyoQIA7Oz |
+| C#polin |  https://chat.whatsapp.com/I8E0HFYhpEW8BhMY3Cb4tl |
 
 ### Grupos no Linkedin
 | Nome   |      Link      |  
@@ -155,3 +156,4 @@ Aqui você encontrará uma seleção curada e constantemente atualizada de blogs
 | .NET Developers Brasil | https://www.linkedin.com/groups/9385511/ |
 | Microsoft .Net Developer Brasil | https://www.linkedin.com/groups/1774385/ |
 | .NET Developers | https://www.linkedin.com/groups/40949/ |
+
